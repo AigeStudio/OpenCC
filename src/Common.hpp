@@ -30,7 +30,7 @@
 
 #include "Export.hpp"
 #include "Optional.hpp"
-#include "opencc_config.h"
+//#include "opencc_config.h"
 
 // Forward decalarations and alias
 namespace opencc {
